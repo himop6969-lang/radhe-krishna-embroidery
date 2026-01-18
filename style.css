@@ -55,7 +55,7 @@ a {
    HEADER SECTION
    ========================================= */
 .site-header {
-    background-color: #2a2a2a;
+    background-color: #8b1e2d;
     color: #fff;
     padding: 100px 0;
     text-align: center;
@@ -271,4 +271,5 @@ a {
         flex-direction: column;
         gap: 30px;
     }
+
 }
