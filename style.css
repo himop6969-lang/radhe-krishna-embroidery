@@ -75,7 +75,7 @@ a {
    HEADER SECTION w/ BACKGROUND IMAGE
    ========================================= */
 .site-header {
-    background-color: #520101;
+    background-color: #800000;
     /* Aesthetic Solid Maroon */
     background: #520101 !important;
     background-image: none !important;
@@ -345,7 +345,7 @@ a {
    ========================================= */
 .contact-section {
     /* Aesthetic Deep Maroon Gradient */
-    background: linear-gradient(135deg, #600000 0%, #400000 100%);
+    background: #800000;
     color: #fff;
     text-align: center;
     position: relative;
@@ -433,6 +433,7 @@ a {
     }
 
 }
+
 
 
 
